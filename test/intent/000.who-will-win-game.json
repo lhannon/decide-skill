@@ -1,0 +1,5 @@
+{
+    "utterance": "who is going the win the tonight's game the beavers or the ducks",
+    "intent_type": "DecideIntent",
+    "expected_response": "[beavers|ducks]"
+}

@@ -1,0 +1,5 @@
+{
+    "utterance": "decide red or black",
+    "intent_type": "DecideIntent",
+    "expected_response": "[red|black]"
+}

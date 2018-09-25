@@ -1,0 +1,5 @@
+{
+    "utterance": "what should i wear today tshirt or polo",
+    "intent_type": "DecideIntent",
+    "expected_response": "[tshirt|polo]"
+}

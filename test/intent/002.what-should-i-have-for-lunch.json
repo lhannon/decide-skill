@@ -1,0 +1,5 @@
+{
+    "utterance": "what should i eat for lunch pizza or sushi",
+    "intent_type": "DecideIntent",
+    "expected_response": "[pizza|sushi]"
+}
