@@ -1,4 +1,4 @@
-# <img src='https://rawgithub.com/FortAwesome/FontD-Awesome/master/advanced-options/raw-svg/solid/exchange-alt.svg' card_color='#40dbb0' width='50' height='50' style='vertical-align:bottom'/> Decide between two options
+# <img src='https://rawgithub.com/FortAwesome/Font-Awesome/master/advanced-options/raw-svg/solid/exchange-alt.svg' card_color='#40dbb0' width='50' height='50' style='vertical-align:bottom'/> Decide between two options
 Randomly choose between two specified options
 
 ## About 
