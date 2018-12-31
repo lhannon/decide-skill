@@ -1,0 +1,2 @@
+(.* (?P<Choice1>.*) o (?P<dummy>.*))
+entre ((?P<Choice1>.*) y (?P<dummy>.*))

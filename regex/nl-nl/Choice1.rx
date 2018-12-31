@@ -1,0 +1,2 @@
+(.* (?P<Choice1>.*) of (?P<dummy>.*))
+tussen ((?P<Choice1>.*) en (?P<dummy>.*))
