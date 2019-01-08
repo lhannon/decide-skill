@@ -1,0 +1,2 @@
+(.* (?P<Choice1>.*) eller (?P<dummy>.*))
+mellan ((?P<Choice1>.*) och (?P<dummy>.*))
