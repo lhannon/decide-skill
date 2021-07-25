@@ -1,0 +1,3 @@
+(.* (?P<dummy2>.*) eta (?P<Choice2>.*)) artean
+(.* (?P<dummy2>.*) edo (?P<Choice2>.*))
+(.* (?P<dummy2>.*) ala (?P<Choice2>.*))
