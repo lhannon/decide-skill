@@ -1,0 +1,2 @@
+(.* (?P<Choice1>.*) یا (?P<dummy>.*))
+بین ((?P<Choice1>.*) و (?P<dummy>.*))

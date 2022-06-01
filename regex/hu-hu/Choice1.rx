@@ -1,0 +1,2 @@
+(.* (?P<Choice1>.*) vagy (?P<dummy>.*))
+((?P<Choice1>.*) és (?P<dummy>.*)) között

@@ -1,2 +1,2 @@
-(.* (?P<Choice1>.*) or (?P<dummy>.*))
+(.* (?P<Choice1>.*) или (?P<dummy>.*))
 между ((?P<Choice1>.*) и (?P<dummy>.*))
