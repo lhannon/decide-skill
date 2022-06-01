@@ -1,0 +1,2 @@
+(.* (?P<dummy2>.*) o (?P<Choice2>.*))
+fra ((?P<dummy2>.*) e (?P<Choice2>.*))
